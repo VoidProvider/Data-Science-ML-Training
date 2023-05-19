@@ -1,4 +1,6 @@
-# Data Science & ML Training
-This repo contains various exercises on courses taken on Kaggle website & beyond for data science & ML. 
+## Data Science & ML - Training
+This repository contains some courses taken on  [Kaggle](https://www.kaggle.com) website on the following :
+- Python Pandas Library
+- SQL (both intermediate & advanced level) 
+- Machine Learning (intro & intermediate)
 
-**Note. These courses are completely free and can be found on the Kaggle website. They are a good prerequisite to build the core skills for data scientists & ML engineers.**
